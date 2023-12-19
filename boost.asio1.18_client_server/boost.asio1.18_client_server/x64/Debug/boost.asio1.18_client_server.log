@@ -1,2 +1,2 @@
 ﻿  C123.cpp
-  boost.asio1.18_client_server.vcxproj -> C:\Users\Viacheslav\Desktop\Git\asio_client_server\boost.asio1.18_client_server\x64\Debug\boost.asio1.18_client_server.exe
+C:\Users\Viacheslav\Desktop\Git\asio_client_server\boost.asio1.18_client_server\boost.asio1.18_client_server\C123.cpp(3,10): fatal  error C1083: Не удается открыть файл включение: boost/asio.hpp: No such file or directory,
