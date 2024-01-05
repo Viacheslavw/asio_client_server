@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-boost.asio1.18_client_server",
+      "appliesTo": "boost.asio1.18_client_server/boost.asio1.18_client_server.sln",
+      "type": "launch"
+    }
+  ]
+}
